@@ -24,7 +24,7 @@ git clone https://github.com/01Brxyan/30-pages.git
 
 ### 🌍 Si no cuentas con Visual Studio Code
 
-Puedes abrir el proyecto directamente desde el siguiente enlace: 👉 [11 Pages](https://resonant-nougat-3e9e97.netlify.app/)
+Puedes abrir el proyecto directamente desde el siguiente enlace: 👉 [11 Pages](https://sweet-bavarois-cab282.netlify.app/)
 
 ---
 
