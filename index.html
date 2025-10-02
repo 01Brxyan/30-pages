@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>30 pages</title>
+
+  
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Índice del sitio</h1>
+      <p class="subtitle">Haz click en cualquiera de las 30 páginas para abrirla.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav aria-label="Lista de páginas">
+      <ul class="pages-grid">
+        <li><a href="html/pages12.html" target="_blank">Página 12</a></li>
+        <li><a href="html/pages20.html" target="_blank">Página 20</a></li>
+        <li><a href="html/pages22.html" target="_blank">Página 22</a></li>
+        <li><a href="html/pages30.html" target="_blank">Página 30</a></li>
+        <li><a href="html/pages34.html" target="_blank">Página 34</a></li>
+        <li><a href="html/pages35.html" target="_blank">Página 35</a></li>
+        <li><a href="html/pages40.html" target="_blank">Página 40</a></li>
+        <li><a href="html/pages42.html" target="_blank">Página 42</a></li>
+        <li><a href="html/pages47.html" target="_blank">Página 47</a></li>
+        <li><a href="html/pages52.html" target="_blank">Página 52</a></li>
+        <li><a href="html/pages53.html" target="_blank">Página 53</a></li>
+      </ul>
+    </nav>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span> 30 pages — Todos los derechos reservados</small>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
+
