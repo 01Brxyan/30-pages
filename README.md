@@ -33,16 +33,4 @@ Puedes abrir el proyecto directamente desde el siguiente enlace: 👉 [11 Pages]
 * Navegador actualizado (Chrome, Edge, Firefox, etc.)
 * (Opcional) Visual Studio Code con la extensión Live Server
 
----
 
-## 📋 Sugerencias rápidas
-
-* Si una página no carga correctamente, revisa en la consola del navegador (F12) para ver errores de rutas o archivos faltantes.
-* Si las fuentes no se ven, asegúrate de que la carpeta `fonts/` esté en la misma ruta relativa que los archivos CSS que la referencian.
-* Para trabajar en local con rutas relativas más limpias, usa Live Server o cualquier servidor local (por ejemplo: `python -m http.server` desde la carpeta del proyecto).
-
----
-
-## 📝 Nota final
-
-Este README está listo para copiar y pegar en el archivo `README.md` de tu repositorio. Si quieres que cambie el nombre del repo en el enlace o que actualice más instrucciones (por ejemplo, pasos para compilar o dependencias), dímelo y lo ajusto.
