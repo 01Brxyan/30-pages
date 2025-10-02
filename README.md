@@ -1,6 +1,6 @@
 # 11 Pages 🚀
 
-Este proyecto contiene **11 páginas** desarrolladas en **HTML**, **CSS** y **JavaScript**, ideales para practicar y aprender.
+Este proyecto contiene **11 páginas** desarrolladas en **HTML** y **CSS**, ideales para practicar y aprender.
 
 ---
 
